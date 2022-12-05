@@ -1,16 +1,15 @@
-### Hi there 👋
+<picture>
+ <img src="Header Banner.png">
+</picture>
 
-<!--
-**ovylia02/ovylia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Hello! I'm an undergraduate studying computer science specialising in data science. Having multiple interests in the IT field, I have been exploring different areas such as data science, games development, software development, and so on. Recently, I have been interested more in the games industry, I am currently developing my skills in games programming in unreal engine 5.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying for:
+<ul>
+  <li>being certified as an AWS Cloud Practitioner</li>
+   <li>Unreal Engine 5 C++ development</li>
+ </ul>
+ 
+ My skills include: C++, JavaScript, Java, Mean stack, Unreal Engine, 3D Modelling, Object-oriented Programming, Data Visualisation, Python, R
