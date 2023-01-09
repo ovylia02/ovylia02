@@ -1,5 +1,5 @@
-Hello! I'm an undergraduate studying computer science specialising in data science. Having multiple interests in the IT field, I have been exploring different areas such as data science, games development, software development, and so on. I am currently studying for:
+Hello! I'm an undergraduate studying computer science specialising in data science.
+These are some projects I have done:
 <ul>
-  <li>being certified as an AWS Cloud Practitioner</li>
- </ul>
- 
+  <li><a href="https://public.tableau.com/app/profile/ovylia.lie/viz/video_game_sales_16616900705400/Video_Game_Sales_db">Data Visualisation assignment 1</a> (using tableau)
+</ul>
